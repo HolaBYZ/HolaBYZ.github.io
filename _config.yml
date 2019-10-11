@@ -22,7 +22,7 @@ RSS: false
 # zhihu_username:     
 github_username:    HolaBYZ
 # facebook_username:  
-# jianshu_username:   
+jianshu_username:   59adbf9ceeea
 #twitter_username:  
 
 
@@ -97,19 +97,16 @@ service-worker: true
 
 
 # Friends
-#
-# friends: [
-#     {
-#         title: "WY",
-#         href: "http://zhengwuyang.com"
-#     },{
-#         title: "简书·BY",
-#         href: "http://www.jianshu.com/u/e71990ada2fd"
-#     },{
-#         title: "Apple",
-#         href: "https://apple.com"
-#     },{
-#         title: "Apple Developer",
-#         href: "https://developer.apple.com/"
-#     }
-# ]
+
+friends: [
+    {
+        title: "简书·HolaBYZ",
+        href: "http://www.jianshu.com/u/59adbf9ceeea"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
+    },{
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
+    }
+]
